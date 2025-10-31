@@ -1,2 +1,2 @@
 # particulate-prognostics
-PM2.5 prediction app using machine learning
+A predictive model for daily PM2.5 levels using machine learning and environmental data.
